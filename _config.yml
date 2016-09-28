@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   더 좋은 개발자가 되고 싶은 평범한 개발자의 블로그
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aaron0501.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: kaaronkim1
+github_username:  aaron0501
 
 # Build settings
 highlighter: rouge
